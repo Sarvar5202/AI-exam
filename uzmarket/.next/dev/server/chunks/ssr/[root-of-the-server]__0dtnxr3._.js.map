@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac/my_projekt/antigraviti/uzmarket/app/page.jsx"],"sourcesContent":["import React from 'react';\n\nexport default function Page() {\n  return (\n    <main style={{fontFamily: 'system-ui, sans-serif', padding: 24}}>\n      <h1>Uzmarket — Lokal test sahifasi</h1>\n      <p>Agar siz asl manbalarni qo'shsangiz, bu sahifa o'zgaradi.</p>\n    </main>\n  );\n}\n"],"names":["Page","style","fontFamily","padding"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAKC,OAAO;YAACC,YAAY;YAAyBC,SAAS;QAAE;;0BAC5D,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
